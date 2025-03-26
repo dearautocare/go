@@ -1,6 +1,6 @@
 <?php
-$subject    = 'Inquiry from MyAutocare'; // Subject of your email
-$to         = 'dear.autocare@gmail.com'; //Your e-mail address
+$subject    = 'Comments from theUXdesign.com'; // Subject of your email
+$to         = 'uxdesign.hello@gmail.com'; //Your e-mail address
 $headers    = 'MIME-Version: 1.0' . "\r\n" .
               'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 $message    = 'Name: ' . $_REQUEST['name'] . ' <br/>' .
